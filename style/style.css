@@ -1,0 +1,24 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 0.08px;
+  color: #212121;
+  font-weight: 600;
+}
+p,
+span,
+li {
+  letter-spacing: 0, 08px;
+  line-hight: 1.64;
+  color: #212121;
+}
+.span-bold {
+  font-weight: 600;
+}
